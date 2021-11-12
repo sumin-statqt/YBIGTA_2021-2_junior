@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(255, 221, 221);
+}
+
+
+h1 {
+    color:deeppink;
+    text-align: Center;
+    text-shadow: 1.5px 1px 1px rgb(0, 0, 0);
+}
+
+button{
+    color:rgba(40, 95, 99, 0.74);
+    font-size: 25pt;
+    text-align: Center;
+    padding: 30px;
+    background-color: rgb(110, 225, 240);
+    font-weight:bold;
+    border: 30px rgba(40, 95, 99, 0.74);
+}
+
+.main {
+    margin: 100px auto;
+    text-align: center;
+}
+
